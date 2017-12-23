@@ -1,4 +1,4 @@
-﻿#Guidelines **(read everything here)**
+﻿# Guidelines **(read everything here)**
 While we welcome pull requests for dimension Dash, we have to lay some ground rules to protect the integrity of the game.
 
  1. **[Learn the basics](https://github.com/features)** of GitHub. Also read this [article](http://www.studica.com/blog/how-to-setup-github-with-unity-step-by-step-instructions).
@@ -90,10 +90,12 @@ While we welcome pull requests for dimension Dash, we have to lay some ground ru
 	            canBossPermanent = true;
 	        }
 	    }
-	```
+```
 	
 
  5. **Don't change any of the classes in the internalMemoryManager script!** Doing so will cause all our players to have their play data erased due to the fact that the updated game would have a different format for saved data. If you want to add more things for persistent data, make another file and another class in the internalMemoryManager for it.
+ 
  7. **Reference where reference is due.** If you haven't already noticed,  Dimension Dash has a pretty long credits list. Those are attributions to the creators of the assets used. Please, please and please again — attribute to the creators of the assets you use. And make sure you're even allowed to use them!
+ 
  6. **Be awesome.** Just...don't compromise quality for laziness. Nobody likes that. Good luck!
 
