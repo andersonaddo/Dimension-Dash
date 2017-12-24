@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Github Glove
+  m_Controller: {fileID: 9100000, guid: 7221c6bfe4a1fa6409cb0de3e23d90a7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5d5c3d59495fa3b419dcf30477242ce0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 023681ada9d99344f954950284987497, type: 2}

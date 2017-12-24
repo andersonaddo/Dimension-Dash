@@ -4,11 +4,12 @@ using UnityEngine;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
 
-public class internalMemoryManager {
+public class internalMemoryManager
+{
 
-    string fileName = "/savedData.dat";
+    const string fileName = "/savedData.dat";
 
-    public string shopFileName = "/shopData.dat";
+    const string shopFileName = "/shopData.dat";
 
 
     //Score and Coins ------------------------------------------------------------------------------------------------------------------------------
@@ -27,12 +28,12 @@ public class internalMemoryManager {
         //Giving the high score to the global data manager too
         globalDataPreserver.Instance.currentHighScore = hiScore;
     }
-    
+
 
 
     public int loadHiScore()
     {
-        if (File.Exists (Application.persistentDataPath + fileName))
+        if (File.Exists(Application.persistentDataPath + fileName))
         {
             BinaryFormatter binaryFormatter = new BinaryFormatter();
             FileStream file = File.Open(Application.persistentDataPath + fileName, FileMode.Open);
@@ -83,6 +84,48 @@ public class internalMemoryManager {
 
 
     //Shop and Characters ------------------------------------------------------------------------------------------------------------------------------
+
+    //This method was needed since files can be corrupted in devices sometimes (it's rare).
+    //In such cases, the game gets messed up and even the default characters are locked.
+    public bool isShopDataValid()
+    {
+        string shopFilePath = Application.persistentDataPath + shopFileName;
+
+        if (!File.Exists(shopFilePath)) return false;
+        if (new FileInfo(shopFilePath).Length == 0) return false;
+
+        //To see if the data in the file is valid
+        if (isShopCorrupted())
+        {
+            File.Delete(shopFilePath);
+            return false;
+        }
+        return true;
+    }
+
+
+    bool isShopCorrupted()
+    {
+        FileStream file = File.Open(Application.persistentDataPath + shopFileName, FileMode.Open);
+
+        try
+        {
+            BinaryFormatter binaryFormatter = new BinaryFormatter();
+            ShopData storedData = binaryFormatter.Deserialize(file) as ShopData;
+            file.Close();
+            if (storedData == null) return true;
+        }
+        catch (System.Exception)
+        {
+            file.Close();
+            return true;
+        }
+
+
+        return false;
+    }
+
+
     public void saveShopDetails(Dictionary<int, CharacterOptionsForDimensions> choices)
     {
         BinaryFormatter binaryFormatter = new BinaryFormatter();
@@ -98,15 +141,16 @@ public class internalMemoryManager {
 
     public ShopData loadShopDetails()
     {
-            BinaryFormatter binaryFormatter = new BinaryFormatter();
-            FileStream file = File.Open(Application.persistentDataPath + shopFileName, FileMode.Open);
+        BinaryFormatter binaryFormatter = new BinaryFormatter();
+        FileStream file = File.Open(Application.persistentDataPath + shopFileName, FileMode.Open);
 
-            //Retrieving the saved data in the form of a ShopData class
-            ShopData storedData = (ShopData)binaryFormatter.Deserialize(file);
-            file.Close();
-        
+        //Retrieving the saved data in the form of a ShopData class
+        ShopData storedData = (ShopData)binaryFormatter.Deserialize(file);
+        file.Close();
+
         return storedData;
     }
+
 
 }
 
@@ -130,9 +174,10 @@ class PlayerData
 [System.Serializable]
 public class ShopData
 {
+    //This dictionary has dimension scene index keys and CharacterOptionsForDimensions values 
     public Dictionary<int, CharacterOptionsForDimensions> characterChoices = new Dictionary<int, CharacterOptionsForDimensions>();
 
-    public ShopData (Dictionary<int, CharacterOptionsForDimensions> choices)
+    public ShopData(Dictionary<int, CharacterOptionsForDimensions> choices)
     {
         characterChoices = choices;
     }
@@ -144,5 +189,5 @@ public class CharacterOptionsForDimensions
 {
     //Built in with default values
     public int selectedCharacter = 0;
-    public List<int> availableCharacterIndexes = new List<int>(new int[] {0});
+    public List<int> availableCharacterIndexes = new List<int>(new int[] { 0 });
 }

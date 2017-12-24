@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{749210FF-82FB-17F8-BC35-AE764E9B69E5}</ProjectGuid>
+    <ProjectGuid>{A4414E2D-4838-0687-44BD-81CD00FD53DD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -96,6 +96,7 @@
      <None Include="Assets\Localization\Resources\LocalizationText.xml" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
      <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\LiberationSans - OFL.txt" />
+     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
      <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
      <None Include="Assets\GooglePlayGames\Editor\template-Constants.txt" />
  <Reference Include="UnityEditor.Advertisements">
@@ -159,18 +160,20 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Google.VersionHandler">
- <HintPath>C:/Users/addo_a/Documents/#UNITY PROJECTS/Dimension Dash/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+ <HintPath>C:/Users/addo_a/Documents/#UNITY PROJECTS/GitHub Clones/Dimension-Dash/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
  </Reference>
  <Reference Include="TextMeshPro-2017.1-1.0.56-Editor">
- <HintPath>C:/Users/addo_a/Documents/#UNITY PROJECTS/Dimension Dash/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.1-1.0.56-Editor.dll</HintPath>
+ <HintPath>C:/Users/addo_a/Documents/#UNITY PROJECTS/GitHub Clones/Dimension-Dash/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.1-1.0.56-Editor.dll</HintPath>
  </Reference>
  <Reference Include="TextMeshPro-2017.1-1.0.56-Runtime">
- <HintPath>C:/Users/addo_a/Documents/#UNITY PROJECTS/Dimension Dash/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.1-1.0.56-Runtime.dll</HintPath>
+ <HintPath>C:/Users/addo_a/Documents/#UNITY PROJECTS/GitHub Clones/Dimension-Dash/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.1-1.0.56-Runtime.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{026BDD6E-4114-AAD1-F8A2-23FCFDBDF4EF}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{CA0D1E9C-663E-0D85-6F9B-011168D9EDB5}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{89363035-C254-1792-825F-77F3B91E2A17}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
