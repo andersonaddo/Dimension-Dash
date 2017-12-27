@@ -2,7 +2,7 @@
 While we welcome pull requests for dimension Dash, we have to lay some ground rules to protect the integrity of the game.
 
  1. **[Learn the basics](https://github.com/features)** of GitHub. Also read this [article](http://www.studica.com/blog/how-to-setup-github-with-unity-step-by-step-instructions).
- 2. **Try, don't just suggest.** If you have a new system or idea that you'd like to see in the game, you can request for it over GitHub, sure, but that's *no guarantee* that it will be implemented. If you *really* want to see it done, try and to it yourself and contribute the addition. If you're not sure how good the improvement is, or you need help with it, **fork** the project and get help from others.
+ 2. **Try, don't just suggest.** If you have a new system or idea that you'd like to see in the game, you can request for it over GitHub, sure, but that's *no guarantee* that it will be implemented. If you *really* want to see it done, try and to it yourself and contribute the addition. **Download** the project using the Github Desktop Application, and work on it locally on your computer. When you're done, **request for a pull request** to have it fully integrated into the game. If you're working on a large feature with others, you can request for a **branch** to be made for your work.
  3. **Keep the Asset folder organized.** When you met the project, everything was orderly and neat. Keep it that way. **Note: don't ever move these folders:
 	 - Plugins 
 	 - TextMesh Pro
