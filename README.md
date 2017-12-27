@@ -26,5 +26,5 @@ Here are some important things to know when you're working on Dimension Dash.
  - **Don't rearrange any of the scenes** in the scene index manager! If you're making a new scene, add it to the bottom.
  - If you're going through a piece if code and you want to know more about how a variable or method is used, remember to use the "Find all references" tool that most modern IDEs have.
  
- - **Read the [Contribution Guildelines](CONTRIBUTING.md) when making pull requests.** If you make a contribution that shows that you haven't read the Code, you'll be sent back to read it and make changes.
+ - **Read the [Contribution Guildelines](CONTRIBUTING.md) if you want to contribute!.** If you make a contribution that shows that you haven't read the Code, you'll be sent back to read it and make changes.
 
