@@ -10,7 +10,11 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-# Build results
+# Build results and unnecessary folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/Assets/AssetStoreTools*
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -23,7 +27,7 @@ bld/
 [Oo]bj/
 
 # Visual Studio 2015 cache/options directory
-.vs/
+
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
