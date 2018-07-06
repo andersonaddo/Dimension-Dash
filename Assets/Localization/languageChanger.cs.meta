@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 66e54f5427eb0b84dbeec81fd9bb841a
+timeCreated: 1494248555
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - normalFontUI: {fileID: 12800000, guid: 3950e8f2e5a3a5544bbdfbef534b3711, type: 3}
+  - russianFontUI: {fileID: 12800000, guid: fa1f48092bf95a545a27a0bea2716ee2, type: 3}
+  - normalFontTMP: {fileID: 11400000, guid: 0ebca8208204bff418c8c8a0d5a3d364, type: 2}
+  - russianFontTMP: {fileID: 11400000, guid: 3b443197e92adaf40b447c015b29110d, type: 2}
+  executionOrder: 700
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

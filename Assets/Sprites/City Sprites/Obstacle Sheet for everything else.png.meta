@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 76b15be9bb9da3c49a78299ead28e6ac
+timeCreated: 1479044502
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Obstacle Sheet for everything else_0
+    21300002: Obstacle Sheet for everything else_6
+    21300004: Obstacle Sheet for everything else_7
+    21300006: Obstacle Sheet for everything else_8
+    21300008: Obstacle Sheet for everything else_10
+    21300010: Obstacle Sheet for everything else_11
+    21300012: Obstacle Sheet for everything else_12
+    21300014: Obstacle Sheet for everything else_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Obstacle Sheet for everything else_0
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 175
+        width: 124
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Obstacle Sheet for everything else_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 200
+        width: 72
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Obstacle Sheet for everything else_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 99
+        width: 64
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Obstacle Sheet for everything else_8
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 176
+        width: 64
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Obstacle Sheet for everything else_10
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 173
+        width: 64
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Obstacle Sheet for everything else_11
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 115
+        width: 88
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Obstacle Sheet for everything else_12
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 129
+        width: 128
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Obstacle Sheet for everything else_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 32
+        width: 150
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fa1f48092bf95a545a27a0bea2716ee2
+timeCreated: 1494244448
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Comic Relief
+  fontNames:
+  - Comic Relief
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

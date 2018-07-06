@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: aaf6c508ebc79ac47a9a253c99ca85a0
+timeCreated: 1492432225
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sonic exe_0
+    21300002: Sonic exe_1
+    21300004: Sonic exe_2
+    21300006: Sonic exe_3
+    21300008: Sonic exe_4
+    21300010: Sonic exe_5
+    21300012: Sonic exe_6
+    21300014: Sonic exe_7
+    21300016: Sonic exe_8
+    21300018: Sonic exe_9
+    21300020: Sonic exe_10
+    21300022: Sonic exe_11
+    21300024: Sonic exe_12
+    21300026: Sonic exe_13
+    21300028: Sonic exe_14
+    21300030: Sonic exe_15
+    21300032: Sonic exe_16
+    21300034: Sonic exe_17
+    21300036: Sonic exe_18
+    21300038: Sonic exe_19
+    21300040: Sonic exe_20
+    21300042: Sonic exe_21
+    21300044: Sonic exe_22
+    21300046: Sonic exe_23
+    21300048: Sonic exe_24
+    21300050: Sonic exe_25
+    21300052: Sonic exe_26
+    21300054: Sonic exe_27
+    21300056: Sonic exe_28
+    21300058: Sonic exe_29
+    21300060: Sonic exe_30
+    21300062: Sonic exe_31
+    21300064: Sonic exe_32
+    21300066: Sonic exe_33
+    21300068: Sonic exe_34
+    21300070: Sonic exe_35
+    21300072: Sonic exe_36
+    21300074: Sonic exe_37
+    21300076: Sonic exe_38
+    21300078: Sonic exe_39
+    21300080: Sonic exe_40
+    21300082: Sonic exe_41
+    21300084: Sonic exe_42
+    21300086: Sonic exe_43
+    21300088: Sonic exe_44
+    21300090: Sonic exe_45
+    21300092: Sonic exe_46
+    21300094: Sonic exe_47
+    21300096: Sonic exe_48
+    21300098: Sonic exe_49
+    21300100: Sonic exe_50
+    21300102: Sonic exe_51
+    21300104: Sonic exe_52
+    21300106: Sonic exe_53
+    21300108: Sonic exe_54
+    21300110: Sonic exe_55
+    21300112: Sonic exe_56
+    21300114: Sonic exe_57
+    21300116: Sonic exe_58
+    21300118: Sonic exe_59
+    21300120: Sonic exe_60
+    21300122: Sonic exe_61
+    21300124: Sonic exe_62
+    21300126: Sonic exe_63
+    21300128: Sonic exe_64
+    21300130: Sonic exe_65
+    21300132: Sonic exe_66
+    21300134: Sonic exe_67
+    21300136: Sonic exe_68
+    21300138: Sonic exe_69
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic exe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_13
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_15
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_16
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_17
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_18
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_19
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_20
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_21
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_22
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_23
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_24
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_25
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_26
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_27
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_28
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_29
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_30
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_31
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_32
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_33
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_34
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 40
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sonic exe_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

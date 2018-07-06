@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: b8f3226c6d1f1f24ab52f4384dfebd2b
+timeCreated: 1492288328
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Whiteblood_0
+    21300002: Whiteblood_1
+    21300004: Whiteblood_2
+    21300006: Whiteblood_3
+    21300008: Whiteblood_4
+    21300010: Whiteblood_5
+    21300012: Whiteblood_6
+    21300014: Whiteblood_7
+    21300016: Whiteblood_8
+    21300018: Whiteblood_9
+    21300020: Whiteblood_10
+    21300022: Whiteblood_11
+    21300024: Whiteblood_12
+    21300026: Whiteblood_13
+    21300028: Whiteblood_14
+    21300030: Whiteblood_15
+    21300032: Whiteblood_16
+    21300034: Whiteblood_17
+    21300036: Whiteblood_18
+    21300038: Whiteblood_19
+    21300040: Whiteblood_20
+    21300042: Whiteblood_21
+    21300044: Whiteblood_22
+    21300046: Whiteblood_23
+    21300048: Whiteblood_24
+    21300050: Whiteblood_25
+    21300052: Whiteblood_26
+    21300054: Whiteblood_27
+    21300056: Whiteblood_28
+    21300058: Whiteblood_29
+    21300060: Whiteblood_30
+    21300062: Whiteblood_31
+    21300064: Whiteblood_32
+    21300066: Whiteblood_33
+    21300068: Whiteblood_34
+    21300070: Whiteblood_35
+    21300072: Whiteblood_36
+    21300074: Whiteblood_37
+    21300076: Whiteblood_38
+    21300078: Whiteblood_39
+    21300080: Whiteblood_40
+    21300082: Whiteblood_41
+    21300084: Whiteblood_42
+    21300086: Whiteblood_43
+    21300088: Whiteblood_44
+    21300090: Whiteblood_45
+    21300092: Whiteblood_46
+    21300094: Whiteblood_47
+    21300096: Whiteblood_48
+    21300098: Whiteblood_49
+    21300100: Whiteblood_50
+    21300102: Whiteblood_51
+    21300104: Whiteblood_52
+    21300106: Whiteblood_53
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Whiteblood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_22
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_24
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_25
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 41
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Whiteblood_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
