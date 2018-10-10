@@ -2,13 +2,19 @@
  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9434a23e5da743ddb1f10657beb3e568)](https://www.codacy.com/app/niiaddo.andy/Dimension-Dash?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=andersonaddo/Dimension-Dash&amp;utm_campaign=Badge_Grade)
  [![CodeFactor](https://www.codefactor.io/repository/github/andersonaddo/dimension-dash/badge)](https://www.codefactor.io/repository/github/andersonaddo/dimension-dash)
- 
 
 ![The game's banner](https://i0.wp.com/www.loadingdeveloper.com/wp-content/uploads/2017/10/Cover-Image.png?w=1024&ssl=1)
 Thanks for caring about Dimension Dash and wanting to improve it! We'd love to so see what you're bringing to the game! 
-Want to add a new character? Or a combat system? Or perhaps a system to allow players to make custom characters? Make it and contribute! We'll try and [publish it in the real game](https://play.google.com/store/apps/details?id=com.lumberjackapps.dimensiondash&hl=en) and add you to the credits! We welcome all your creativity and hard work, so come on in!
+Want to add a new character? Or a combat system? Or perhaps a system to allow players to make custom characters? Make it and contribute! 
 
 #### You can also check our [projects page](https://github.com/andersonaddo/Dimension-Dash/projects) to see some features that you might want to add!
+
+😔**Important Notice**😔
+
+_In September 2018, SEGA filed a DMCA complaint to Google Play about Dimension Dash, so it was removed from Google Play. I've attempted to get SEGA to reconsider, but no luck. Please, feel free to contribute to this repo though. It could be a great way to learn programming and how to use Unity.
+Sorry to those who had plans to see this game published with your changes, luck wasn't on our side.
+To those interested in playing the game, you should clone this repo and build the .apk file on your computer using Unity._
+
 
 
 ### Some things to note before use **(read everything here!)**
