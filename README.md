@@ -13,7 +13,7 @@ Want to add a new character? Or a combat system? Or perhaps a system to allow pl
 
 _In September 2018, SEGA filed a DMCA complaint to Google Play about Dimension Dash, so it was removed from Google Play. I've attempted to get SEGA to reconsider, but no luck. Please, feel free to contribute to this repo though. It could be a great way to learn programming and how to use Unity.
 Sorry to those who had plans to see this game published with your changes, luck wasn't on our side.
-To those interested in playing the game, you should clone this repo and build the .apk file on your computer using Unity._
+To those interested in playing the game, you can download one from the [releases](https://github.com/andersonaddo/Dimension-Dash/releases) section of this repo._
 
 
 
@@ -24,7 +24,7 @@ To those interested in playing the game, you should clone this repo and build th
 You can link Unity to the SDK and JDK by going to *Edit > Preferences > External tools*.
 
 - This project was uploaded using Unity Unity 2018.1.3f1. If you're also using that version of Unity, no problem! However, if you are using a different version, here are some steps you might to follow:
-	- Get the latest **version of Unity**
+	- ~~Get the latest **version of Unity**~~ Get a pre-2018.3 version of Unity. [Here's why.](https://github.com/andersonaddo/Dimension-Dash/issues/1)
 	- **Open** that version of Unity (not Dimension Dash though. Make an empty project or use a placeholder project)
 	- **Download and install that version's Android compatibility module** by going to the Build settings and attempting to Switch the platform to Android. Once installed, switch the platform to Android.
 	- Since the project uses [TextMeshPro](https://www.assetstore.unity3d.com/en/#!/content/84126) , you might have to update it to match your Unity version. **Delete the current TextMeshPro** folder in the Assets folder, and go to the Assets Store (or the Unity Package manager, if you're using 2018+) to download and install the newest version. **Restart Unity**.
